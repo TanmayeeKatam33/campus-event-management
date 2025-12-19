@@ -1,2 +1,1 @@
-This project demonstrates a static website using HTML, CSS, and JavaScript.
-"# Campus Event Management System" 
+https://tanmayeekatam33.github.io/campus-event-management/
